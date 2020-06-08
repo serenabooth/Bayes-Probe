@@ -1,3 +1,3 @@
 # Bayes-Probe
 
-Contact sbooth @ mit.edu if this code is unavailable. 
+This project has been renamed. See https://github.com/serenabooth/Bayes-TrEx instead.
